@@ -1,0 +1,80 @@
+Passo 0 - Introdução
+
+A ilha Oak Hill, situada na costa da Carolina do Norte, era conhecida por suas paisagens intocadas e por lendas antigas sobre um tesouro escondido. O som das ondas ecoava entre as árvores de cipreste, enquanto o céu tingido pelo pôr do sol criava uma atmosfera quase mágica. Era ali que Victória, uma jovem de 17 anos com olhos castanhos expressivos e cabelos escuros amarrados em uma trança, pisava determinada. Ela estava acompanhada por Nicolle, sua irmã de 15 anos, de olhos brilhantes e sorriso curioso, sempre com seu colar da sorte pendurado no pescoço. No meio delas, Amora, a gata branca de olhos desiguais - um verde e o outro azul - as acompanhava, movendo-se silenciosa e elegante como uma sombra.
+
+O trio estava em busca de um tesouro lendário que, segundo as histórias antigas, era capaz de mudar a vida de quem o encontrasse. Com um mapa antigo nas mãos e a coragem de uma verdadeira aventureira, Victória sabia que não seria uma tarefa fácil. A ilha escondia mistérios e perigos, com cavernas traiçoeiras, trilhas sinuosas e até mesmo enigmas que apenas as mais espertas poderiam resolver. Ao iniciar a aventura, Victória e Nicolle ainda não sabiam que Amora possuía poderes especiais, poderes que seriam cruciais em momentos de perigo.
+
+Na primeira bifurcação da trilha, Victória percebeu que teria que tomar uma decisão importante:
+
+Botões:
+
+	•	Botão 1: Seguir pela trilha da floresta, que leva a uma caverna oculta entre as árvores.
+	•	Botão 2: Caminhar pela praia até uma cachoeira escondida.
+
+Passo 1 - Escolha do Botão 1 (Trilha da Floresta)
+
+Ao optar pela trilha da floresta, o cenário ao redor se tornou mais sombrio. As árvores eram altas e densas, bloqueando a luz do sol e criando uma atmosfera silenciosa e levemente assustadora. Amora, a gatinha, parecia mais alerta do que o normal, seus olhos desiguais brilhando na penumbra. Victória e Nicolle logo chegaram à entrada de uma caverna, onde uma inscrição misteriosa estava gravada na rocha. O mapa parecia indicar que ali havia uma passagem secreta.
+
+Botões:
+
+	•	Botão 3: Entrar na caverna e explorar seu interior.
+	•	Botão 4: Examinar a inscrição e decifrar o enigma.
+
+Passo 2 - Escolha do Botão 2 (Caminho da Cachoeira)
+
+Seguindo o caminho até a cachoeira, Victória e Nicolle sentiram o frescor da brisa do mar enquanto caminhavam pela areia molhada. Ao chegarem, notaram algo peculiar: atrás da cortina de água, havia uma entrada de gruta parcialmente oculta. A água caía de uma altura considerável, e havia uma aura de mistério no ar.
+
+Botões:
+
+	•	Botão 5: Atravessar a cachoeira e entrar na gruta.
+	•	Botão 6: Examinar os arredores em busca de outra entrada.
+
+Passo 3 - Escolha do Botão 3 (Entrar na Caverna)
+
+Dentro da caverna, o ar era frio e úmido, e as paredes brilhavam com um musgo esverdeado. A alguns metros da entrada, as irmãs ouviram um som estranho, como se algo estivesse se movendo rapidamente em sua direção. Do escuro, surgiram sombras de criaturas pequenas e rápidas, parecendo armadilhas vivas prontas para capturar intrusos. Victória e Nicolle sentiram o perigo, mas, sem que soubessem, Amora se aproximou e lançou um miado agudo, paralisando as criaturas por alguns segundos e dando tempo para que elas escapassem.
+
+Botões:
+
+	•	Botão 9: Seguir pelo túnel da esquerda, onde uma leve brisa fria vinha de algum lugar.
+	•	Botão 10: Seguir pelo túnel da direita, onde o som de água gotejando ecoava.
+
+Passo 4 - Escolha do Botão 4 (Decifrar o Enigma na Caverna)
+
+A inscrição na rocha dizia: “Quanto mais você tira de mim, maior eu fico.” Nicolle, com um sorriso, respondeu rapidamente: “Um buraco!” Com isso, uma passagem secreta se abriu, revelando uma sala com paredes cobertas de ouro e joias antigas. Victória e Nicolle tinham encontrado uma pequena parte do tesouro.
+
+Resultado: Ganharam
+
+Passo 5 - Escolha do Botão 5 (Atravessar a Cachoeira)
+
+Atravessando a cachoeira, as irmãs chegaram a uma gruta onde uma velha estátua de pedra segurava uma inscrição. Para continuar, precisavam resolver o enigma esculpido na base: “Sou algo que você possui, mas que todos usam mais que você.” Victória respondeu “Meu nome!” e, com isso, um portal se abriu, levando-as a um corredor iluminado por tochas.
+
+Botões:
+
+	•	Botão 7: Entrar no corredor iluminado e seguir em frente.
+	•	Botão 8: Olhar ao redor da gruta em busca de outras pistas.
+
+Passo 6 - Escolha do Botão 6 (Procurar ao Redor da Cachoeira)
+
+Victória e Nicolle caminharam ao redor da cachoeira, mas, ao pisarem em uma pedra solta, uma armadilha foi ativada. Rochas começaram a deslizar, bloqueando a saída e separando as irmãs. Amora, percebendo o perigo, usou um de seus poderes secretos: um brilho suave emanou de seus olhos, e as pedras lentamente se moveram para liberar o caminho. Elas conseguiram escapar, mas sabiam que aquele não era o caminho para o tesouro.
+
+Resultado: Perderam
+
+Passo 7 - Escolha do Botão 7 (Seguir pelo Corredor Iluminado)
+
+Victória e Nicolle seguiram pelo corredor iluminado, chegando a uma sala circular com desenhos de estrelas e luas nas paredes. No centro, uma pedra brilhava intensamente. Quando se aproximaram, uma voz ecoou, oferecendo um último enigma: “Tenho cidades, mas não tenho casas. Tenho montanhas, mas não tenho árvores. Tenho água, mas não tenho peixes.” Victória respondeu “Um mapa!” e, com isso, o verdadeiro tesouro da ilha foi revelado, brilhando diante delas.
+
+Resultado: Ganharam
+
+Passo 8 - Volta para Passo 1
+
+Após sua vitória, Victória e Nicolle decidiram que o tesouro encontrado era apenas uma parte da lenda. Decidiram retornar ao ponto inicial, prontas para explorar outro caminho da ilha.
+
+Passo 9 - Ganharam
+
+Usando o que aprenderam e contando com a ajuda dos poderes de Amora, Victória e Nicolle conseguiram decifrar os enigmas finais e superar as armadilhas. Encontraram um grande baú de ouro e pedras preciosas que garantiria o conforto e a segurança de suas vidas.
+
+Passo 10 - Perderam
+
+Ao enfrentar o último enigma, Victória e Nicolle tomaram uma decisão equivocada, ativando uma armadilha que fechou o acesso ao tesouro. Embora tenham saído em segurança, sabiam que a aventura não terminaria ali e que poderiam tentar de novo com a ajuda da fiel Amora.
+
+Essa história cheia de aventuras, enigmas e perigos mostrou a coragem de Victória e Nicolle, que, com o auxílio dos poderes de Amora, conseguiram vencer desafios e descobriram que o verdadeiro tesouro era a união e a amizade que as mantinha sempre juntas e protegidas.
